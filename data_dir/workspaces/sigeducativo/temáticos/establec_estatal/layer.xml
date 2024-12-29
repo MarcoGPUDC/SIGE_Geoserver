@@ -1,0 +1,17 @@
+<layer>
+  <name>establec_estatal</name>
+  <id>LayerInfoImpl--5818af99:19402dc0c46:-7687</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5818af99:19402dc0c46:-73ef</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5818af99:19402dc0c46:-7688</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-26 13:54:41.959 UTC</dateCreated>
+  <dateModified>2024-12-26 14:13:52.31 UTC</dateModified>
+</layer>

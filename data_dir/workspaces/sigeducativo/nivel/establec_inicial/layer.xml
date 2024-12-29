@@ -1,0 +1,17 @@
+<layer>
+  <name>establec_inicial</name>
+  <id>LayerInfoImpl--76237afd:1931b85d5e5:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--76237afd:1931b85d5e5:-7d7c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--76237afd:1931b85d5e5:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-11 14:08:10.796 UTC</dateCreated>
+  <dateModified>2024-11-11 15:10:51.196 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>ministerio</name>
+  <id>LayerInfoImpl-3856158b:193495fb905:-7f95</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5b1251dc:191e6266cd3:-7fd0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3856158b:193495fb905:-7f96</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-20 14:25:07.3 UTC</dateCreated>
+  <dateModified>2024-11-21 12:18:52.431 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>establec_educativos_urbano</name>
+  <id>LayerInfoImpl-6f99da73:1940864e62e:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-6f99da73:1940864e62e:-7fcd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-6f99da73:1940864e62e:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-27 13:54:21.581 UTC</dateCreated>
+  <dateModified>2024-12-27 14:09:59.209 UTC</dateModified>
+</layer>

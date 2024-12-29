@@ -1,0 +1,4 @@
+<ExternalGraphic xmlns="http://www.opengis.net/sld" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <OnlineResource xlink:type="simple" xlink:href="establecimientos.1.svg" />
+  <Format>image/svg+xml</Format>
+</ExternalGraphic>

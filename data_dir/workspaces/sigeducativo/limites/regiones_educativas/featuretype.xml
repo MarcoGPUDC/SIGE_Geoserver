@@ -1,0 +1,68 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-31112406:192e2997e40:-7ffe</id>
+  <name>regiones_educativas</name>
+  <nativeName>regiones_educativas</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--27ff8605:1919482de41:-7ff8</id>
+  </namespace>
+  <title>regiones_educativas</title>
+  <keywords>
+    <string>features</string>
+    <string>regiones_educativas</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;POSGAR 98 / Argentina 2&quot;, 
+  GEOGCS[&quot;POSGAR 98&quot;, 
+    DATUM[&quot;Posiciones Geodesicas Argentinas 1998&quot;, 
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6190&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4190&quot;]], 
+  PROJECTION[&quot;Transverse_Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9807&quot;]], 
+  PARAMETER[&quot;central_meridian&quot;, -69.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, -90.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;false_easting&quot;, 2500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 0.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;22172&quot;]]</nativeCRS>
+  <srs>EPSG:22172</srs>
+  <nativeBoundingBox>
+    <minx>2236502.78310298</minx>
+    <maxx>2945267.04705176</maxx>
+    <miny>4902505.25763599</miny>
+    <maxy>5350322.31647034</maxy>
+    <crs class="projected">EPSG:22172</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-72.40040062159646</minx>
+    <maxx>-63.26335557913175</maxx>
+    <miny>-46.02981823488739</miny>
+    <maxy>-41.8746310096277</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--27ff8605:1919482de41:-7fe0</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

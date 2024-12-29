@@ -1,0 +1,17 @@
+<layer>
+  <name>delegaciones</name>
+  <id>LayerInfoImpl-3856158b:193495fb905:-7fa6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3d380a1:191c25343ab:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3856158b:193495fb905:-7fa7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-20 12:42:31.734 UTC</dateCreated>
+  <dateModified>2024-11-20 12:45:34.29 UTC</dateModified>
+</layer>

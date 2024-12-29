@@ -1,0 +1,17 @@
+<layer>
+  <name>bibliotecas_pedagogicas</name>
+  <id>LayerInfoImpl-31112406:192e2997e40:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3571613:1932a91927f:-720e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-31112406:192e2997e40:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-10-31 14:03:12.733 UTC</dateCreated>
+  <dateModified>2024-11-14 15:05:54.936 UTC</dateModified>
+</layer>

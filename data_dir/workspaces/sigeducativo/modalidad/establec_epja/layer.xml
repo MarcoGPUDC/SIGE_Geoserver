@@ -1,0 +1,17 @@
+<layer>
+  <name>establec_epja</name>
+  <id>LayerInfoImpl--76237afd:1931b85d5e5:-7ff2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3571613:1932a91927f:-7c5f</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--76237afd:1931b85d5e5:-7ff3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-11 14:11:21.941 UTC</dateCreated>
+  <dateModified>2024-11-14 12:59:00.481 UTC</dateModified>
+</layer>

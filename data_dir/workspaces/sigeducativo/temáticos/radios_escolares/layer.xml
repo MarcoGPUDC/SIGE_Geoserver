@@ -1,0 +1,17 @@
+<layer>
+  <name>radios_escolares</name>
+  <id>LayerInfoImpl-71a6c957:19363455b34:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-71a6c957:19363455b34:-7ffa</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-71a6c957:19363455b34:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-25 14:09:11.711 UTC</dateCreated>
+  <dateModified>2024-11-25 14:21:49.690 UTC</dateModified>
+</layer>

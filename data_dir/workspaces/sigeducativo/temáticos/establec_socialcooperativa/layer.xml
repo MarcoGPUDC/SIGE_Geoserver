@@ -1,0 +1,17 @@
+<layer>
+  <name>establec_socialcooperativa</name>
+  <id>LayerInfoImpl--5818af99:19402dc0c46:-73ff</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5818af99:19402dc0c46:-6edc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5818af99:19402dc0c46:-7400</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-26 13:56:44.658 UTC</dateCreated>
+  <dateModified>2024-12-26 14:18:51.314 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>establec_artistica</name>
+  <id>LayerInfoImpl--76237afd:1931b85d5e5:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--76237afd:1931b85d5e5:-7a8b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--76237afd:1931b85d5e5:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-11 14:06:30.551 UTC</dateCreated>
+  <dateModified>2024-11-11 15:01:51.251 UTC</dateModified>
+</layer>

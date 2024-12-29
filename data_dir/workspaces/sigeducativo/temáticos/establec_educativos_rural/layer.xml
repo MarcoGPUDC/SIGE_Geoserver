@@ -1,0 +1,22 @@
+<layer>
+  <name>establec_educativos_rural</name>
+  <id>LayerInfoImpl-6f99da73:1940864e62e:-7fff</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-6f99da73:1940864e62e:-7ffc</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-6f99da73:1940864e62e:-7ffc</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-6f99da73:1940864e62e:-8000</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-12-27 13:53:37.926 UTC</dateCreated>
+  <dateModified>2024-12-27 14:04:14.503 UTC</dateModified>
+</layer>

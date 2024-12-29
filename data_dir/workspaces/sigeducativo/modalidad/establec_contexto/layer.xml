@@ -1,0 +1,17 @@
+<layer>
+  <name>establec_contexto</name>
+  <id>LayerInfoImpl--76237afd:1931b85d5e5:-7ff8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3571613:1932a91927f:-7c9a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--76237afd:1931b85d5e5:-7ff9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-11 14:07:35.153 UTC</dateCreated>
+  <dateModified>2024-11-14 12:24:36.102 UTC</dateModified>
+</layer>

@@ -1,0 +1,68 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--76237afd:1931b85d5e5:-7ffb</id>
+  <name>establec_artistica</name>
+  <nativeName>establec_artistica</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--27ff8605:1919482de41:-7ff8</id>
+  </namespace>
+  <title>establec_artistica</title>
+  <keywords>
+    <string>features</string>
+    <string>establec_artistica</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;POSGAR 98 / Argentina 2&quot;, 
+  GEOGCS[&quot;POSGAR 98&quot;, 
+    DATUM[&quot;Posiciones Geodesicas Argentinas 1998&quot;, 
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6190&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4190&quot;]], 
+  PROJECTION[&quot;Transverse_Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9807&quot;]], 
+  PARAMETER[&quot;central_meridian&quot;, -69.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, -90.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;false_easting&quot;, 2500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 0.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;22172&quot;]]</nativeCRS>
+  <srs>EPSG:22172</srs>
+  <nativeBoundingBox>
+    <minx>2287032.9806776047</minx>
+    <maxx>2824110.608810041</maxx>
+    <miny>5191172.216777826</miny>
+    <maxy>5346046.720655802</maxy>
+    <crs class="projected">EPSG:22172</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-71.62895159358345</minx>
+    <maxx>-65.00176654024347</maxx>
+    <miny>-43.43194951364496</miny>
+    <maxy>-41.97191262449047</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--76237afd:1931b85d5e5:-7fff</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

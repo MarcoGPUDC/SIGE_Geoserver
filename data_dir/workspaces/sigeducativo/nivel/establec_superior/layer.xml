@@ -1,0 +1,17 @@
+<layer>
+  <name>establec_superior</name>
+  <id>LayerInfoImpl--76237afd:1931b85d5e5:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3571613:1932a91927f:-721a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--76237afd:1931b85d5e5:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-11 14:01:22.997 UTC</dateCreated>
+  <dateModified>2024-12-26 12:07:50.890 UTC</dateModified>
+</layer>

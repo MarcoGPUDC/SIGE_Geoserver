@@ -1,0 +1,17 @@
+<layer>
+  <name>bibliotecas_populares_trelew</name>
+  <id>LayerInfoImpl-1edb3d6f:1934f207be1:-7fff</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-71a6c957:19363455b34:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1edb3d6f:1934f207be1:-8000</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-21 14:29:09.316 UTC</dateCreated>
+  <dateModified>2024-11-25 12:28:06.179 UTC</dateModified>
+</layer>

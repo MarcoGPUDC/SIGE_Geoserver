@@ -1,0 +1,17 @@
+<layer>
+  <name>supervision</name>
+  <id>LayerInfoImpl-3856158b:193495fb905:-7f93</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5818af99:19402dc0c46:-768b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3856158b:193495fb905:-7f94</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-20 14:28:06.179 UTC</dateCreated>
+  <dateModified>2024-12-26 13:40:31.830 UTC</dateModified>
+</layer>
